@@ -1,0 +1,28 @@
+SubjectID	EVENT_INDEX	GROUP_INDEX	CRF_INDEX	VAR01	VAR02	VAR03	VAR_NON_REPEATING	VAR_NON_REP_TWO
+subject001	E1					11		
+subject001	E1		C2	EE	FF			
+subject001	E1		C1	AA	BB			
+subject001	E2		C1	CC	DD			
+subject001	E2		C2	GG	HH			
+subject001							0A	_0A
+subject002	E1					22		
+subject002	E1		C2	MM	NN			
+subject002	E1		C1	II	JJ			
+subject002	E2		C1	KK	LL			
+subject002	E2		C2	OO	PP			
+subject002							OB	_0B
+subject003	E1					33		
+subject003	E1		C2	QQ	RR			
+subject003	E2		C2	SS	TT			
+subject003							OC	_0C
+subject004	E1					44		
+subject004	E1		C1	UU	VV			
+subject004	E2		C1	WW	XX			
+subject004							OD	_0D
+subject005	E1					55		
+subject005	E2		C1	YY	ZZ			
+subject005							OE	_0E
+subject006	E1					66		
+subject006	E1		C1	AAA				
+subject006	E2		C1		BBB			
+subject006							OF	_0F
